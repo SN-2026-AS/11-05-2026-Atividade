@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-02T12:44:48.784119+00:00",
+  "updated_at": "2026-06-02T18:41:41.122926+00:00",
   "data_referencia": "2026-06-02",
   "airport_icao": "SBVC",
   "airport_name": "SBVC",
   "airport_info": {
-    "sg_aerodromo_icao": "SBSP",
-    "sg_aerodromo_iata": "CGH",
-    "descricao": "CONGONHAS - SÃO PAULO - SP - BRASIL"
+    "sg_aerodromo_icao": "SBVC",
+    "sg_aerodromo_iata": "VDC",
+    "descricao": "GLAUBER DE ANDRADE ROCHA - VITÓRIA DA CONQUISTA - BA - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
