@@ -1,13 +1,9 @@
 {
-  "updated_at": "2026-06-12T12:22:11.754927+00:00",
+  "updated_at": "2026-06-12T17:39:18.664408+00:00",
   "data_referencia": "2026-06-12",
   "airport_icao": "SBDN",
   "airport_name": "SBDN",
-  "airport_info": {
-    "sg_aerodromo_icao": "SBDN",
-    "sg_aerodromo_iata": "PPB",
-    "descricao": "PRESIDENTE PRUDENTE - PRESIDENTE PRUDENTE - SP - BRASIL"
-  },
+  "airport_info": {},
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [
