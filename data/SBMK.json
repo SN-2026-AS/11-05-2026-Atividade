@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-18T18:06:19.861536+00:00",
+  "updated_at": "2026-06-18T22:57:13.505692+00:00",
   "data_referencia": "2026-06-18",
   "airport_icao": "SBMK",
   "airport_name": "SBMK",
   "airport_info": {
-    "sg_aerodromo_icao": "SBCH",
-    "sg_aerodromo_iata": "XAP",
-    "descricao": "SERAFIN ENOSS BERTASO - CHAPECÓ - SC - BRASIL"
+    "sg_aerodromo_icao": "SBMK",
+    "sg_aerodromo_iata": "MOC",
+    "descricao": "MÁRIO RIBEIRO - MONTES CLAROS - MG - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
