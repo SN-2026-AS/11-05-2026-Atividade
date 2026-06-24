@@ -1,9 +1,13 @@
 {
-  "updated_at": "2026-06-24T11:47:04.678793+00:00",
+  "updated_at": "2026-06-24T14:35:07.137081+00:00",
   "data_referencia": "2026-06-24",
   "airport_icao": "SBUL",
   "airport_name": "Uberlandia",
-  "airport_info": {},
+  "airport_info": {
+    "sg_aerodromo_icao": "SBUL",
+    "sg_aerodromo_iata": "UDI",
+    "descricao": "TEN CEL AVIADOR CÉSAR BOMBONATO - UBERLÂNDIA - MG - BRASIL"
+  },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [
