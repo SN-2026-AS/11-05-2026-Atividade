@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-24T17:06:42.136893+00:00",
+  "updated_at": "2026-06-24T22:19:28.509462+00:00",
   "data_referencia": "2026-06-24",
   "airport_icao": "SBIZ",
   "airport_name": "SBIZ",
   "airport_info": {
-    "sg_aerodromo_icao": "SBIZ",
-    "sg_aerodromo_iata": "IMP",
-    "descricao": "PREFEITO RENATO MOREIRA - IMPERATRIZ - MA - BRASIL"
+    "sg_aerodromo_icao": "SBDN",
+    "sg_aerodromo_iata": "PPB",
+    "descricao": "PRESIDENTE PRUDENTE - PRESIDENTE PRUDENTE - SP - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
