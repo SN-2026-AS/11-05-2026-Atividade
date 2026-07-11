@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T10:16:33.999841+00:00",
+  "updated_at": "2026-07-11T13:22:45.601020+00:00",
   "data_referencia": "2026-07-11",
   "airport_icao": "SBTF",
   "airport_name": "SBTF",
@@ -34,26 +34,26 @@
       "rota_nome": "SBTT"
     },
     {
-      "callsign": "AZU2683",
-      "numero_voo": "2683",
+      "callsign": "AZU4183",
+      "numero_voo": "4183",
       "airline_icao": "AZU",
       "airline": "Azul",
       "equipamento_icao": "AT76",
       "equipamento": "ATR 72",
       "assentos": "70",
-      "etapa": "1",
+      "etapa": "2",
       "tipo_operacao": "Domestico",
       "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
-      "origem_icao": "SBEG",
+      "origem_icao": "SBTT",
       "destino_icao": "SBTF",
-      "partida_iso": "2026-07-20T09:00:00-03:00",
-      "chegada_iso": "2026-07-20T10:35:00-03:00",
-      "partida_brt": "09:00",
-      "chegada_brt": "10:35",
+      "partida_iso": "2026-07-14T12:15:00-03:00",
+      "chegada_iso": "2026-07-14T14:00:00-03:00",
+      "partida_brt": "12:15",
+      "chegada_brt": "14:00",
       "status": "programado",
       "fonte": "SIROS/ANAC",
-      "rota": "SBEG",
-      "rota_nome": "Manaus"
+      "rota": "SBTT",
+      "rota_nome": "SBTT"
     }
   ],
   "departures": [
@@ -80,26 +80,26 @@
       "rota_nome": "Manaus"
     },
     {
-      "callsign": "AZU2683",
-      "numero_voo": "2683",
+      "callsign": "AZU4183",
+      "numero_voo": "4183",
       "airline_icao": "AZU",
       "airline": "Azul",
       "equipamento_icao": "AT76",
       "equipamento": "ATR 72",
       "assentos": "70",
-      "etapa": "2",
+      "etapa": "3",
       "tipo_operacao": "Domestico",
       "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
       "origem_icao": "SBTF",
-      "destino_icao": "SBTT",
-      "partida_iso": "2026-07-20T11:05:00-03:00",
-      "chegada_iso": "2026-07-20T12:50:00-03:00",
-      "partida_brt": "11:05",
-      "chegada_brt": "12:50",
+      "destino_icao": "SBEG",
+      "partida_iso": "2026-07-14T14:35:00-03:00",
+      "chegada_iso": "2026-07-14T16:05:00-03:00",
+      "partida_brt": "14:35",
+      "chegada_brt": "16:05",
       "status": "programado",
       "fonte": "SIROS/ANAC",
-      "rota": "SBTT",
-      "rota_nome": "SBTT"
+      "rota": "SBEG",
+      "rota_nome": "Manaus"
     }
   ]
 }
