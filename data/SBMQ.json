@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-30T18:28:20.129069+00:00",
+  "updated_at": "2026-08-30T23:16:30.795253+00:00",
   "data_referencia": "2026-08-30",
   "airport_icao": "SBMQ",
   "airport_name": "Macapa",
   "airport_info": {
-    "sg_aerodromo_icao": "SBMQ",
-    "sg_aerodromo_iata": "MCP",
-    "descricao": "ALBERTO ALCOLUMBRE - MACAPÁ - AP - BRASIL"
+    "sg_aerodromo_icao": "SBBR",
+    "sg_aerodromo_iata": "BSB",
+    "descricao": "PRESIDENTE JUSCELINO KUBITSCHEK - BRASÍLIA - DF - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
