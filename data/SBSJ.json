@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T17:12:12.806517+00:00",
+  "updated_at": "2026-09-05T22:42:14.865389+00:00",
   "data_referencia": "2026-09-05",
   "airport_icao": "SBSJ",
   "airport_name": "SBSJ",
@@ -11,6 +11,28 @@
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [
+    {
+      "callsign": "TAM9947",
+      "numero_voo": "9947",
+      "airline_icao": "TAM",
+      "airline": "LATAM",
+      "equipamento_icao": "E295",
+      "equipamento": "Embraer E195-E2",
+      "assentos": "0",
+      "etapa": "1",
+      "tipo_operacao": "Domestico",
+      "tipo_servico": "SOBREVOOS OU TRASLADOS OPERACIONAIS DOMÉSTICA",
+      "origem_icao": "SBEG",
+      "destino_icao": "SBSJ",
+      "partida_iso": "2026-09-05T17:05:00-03:00",
+      "chegada_iso": "2026-09-05T20:55:00-03:00",
+      "partida_brt": "17:05",
+      "chegada_brt": "20:55",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "SBEG",
+      "rota_nome": "Manaus"
+    },
     {
       "callsign": "TAM9947",
       "numero_voo": "9947",
