@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-07T19:02:00.343710+00:00",
+  "updated_at": "2026-09-07T23:19:50.942513+00:00",
   "data_referencia": "2026-09-07",
   "airport_icao": "SBJR",
   "airport_name": "SBJR",
   "airport_info": {
-    "sg_aerodromo_icao": "SBJR",
-    "sg_aerodromo_iata": "ZZJ",
-    "descricao": "JACAREPAGUÁ - ROBERTO MARINHO - RIO DE JANEIRO - RJ - BRASIL"
+    "sg_aerodromo_icao": "SBFL",
+    "sg_aerodromo_iata": "FLN",
+    "descricao": "HERCÍLIO LUZ - FLORIANÓPOLIS - SC - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
