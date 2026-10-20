@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-20T18:59:46.877542+00:00",
+  "updated_at": "2026-10-20T23:39:55.554938+00:00",
   "data_referencia": "2026-10-20",
   "airport_icao": "SBMQ",
   "airport_name": "Macapa",
   "airport_info": {
-    "sg_aerodromo_icao": "SBMQ",
-    "sg_aerodromo_iata": "MCP",
-    "descricao": "ALBERTO ALCOLUMBRE - MACAPÁ - AP - BRASIL"
+    "sg_aerodromo_icao": "SBCM",
+    "sg_aerodromo_iata": "",
+    "descricao": "DIOMÍCIO FREITAS - FORQUILHINHA - SC - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
