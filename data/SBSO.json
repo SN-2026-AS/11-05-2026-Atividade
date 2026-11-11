@@ -1,13 +1,9 @@
 {
-  "updated_at": "2026-11-11T01:04:59.071031+00:00",
-  "data_referencia": "2026-11-10",
+  "updated_at": "2026-11-11T16:56:49.986097+00:00",
+  "data_referencia": "2026-11-11",
   "airport_icao": "SBSO",
   "airport_name": "SBSO",
-  "airport_info": {
-    "sg_aerodromo_icao": "SBSO",
-    "sg_aerodromo_iata": "SMT",
-    "descricao": "REGIONAL DE SORRISO ADOLINO BEDIN (SDSS*) - SORRISO - MT - BRASIL"
-  },
+  "airport_info": {},
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [
@@ -24,8 +20,8 @@
       "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
       "origem_icao": "SBKP",
       "destino_icao": "SBSO",
-      "partida_iso": "2026-11-10T08:20:00-03:00",
-      "chegada_iso": "2026-11-10T10:50:00-03:00",
+      "partida_iso": "2026-11-11T08:20:00-03:00",
+      "chegada_iso": "2026-11-11T10:50:00-03:00",
       "partida_brt": "08:20",
       "chegada_brt": "10:50",
       "status": "programado",
@@ -48,8 +44,8 @@
       "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
       "origem_icao": "SBSO",
       "destino_icao": "SBKP",
-      "partida_iso": "2026-11-10T11:35:00-03:00",
-      "chegada_iso": "2026-11-10T13:50:00-03:00",
+      "partida_iso": "2026-11-11T11:35:00-03:00",
+      "chegada_iso": "2026-11-11T13:50:00-03:00",
       "partida_brt": "11:35",
       "chegada_brt": "13:50",
       "status": "programado",
